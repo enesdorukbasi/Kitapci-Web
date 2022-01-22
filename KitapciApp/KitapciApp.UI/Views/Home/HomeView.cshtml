@@ -1,0 +1,44 @@
+﻿@model List<KitapciApp.EntityLayer.Kitap>
+@{
+    ViewBag.Title = "HomeView";
+}
+
+<div id="mainBody">
+    <div class="container">
+        <div class="row">
+            <div id="sidebar" class="span3">
+                <ul id="sideManu" class="nav nav-tabs nav-stacked">
+
+
+                </ul>
+                <br />
+
+            </div>
+            <div class="span9">
+
+
+
+                <ul class="thumbnails">
+                    @foreach (var item in Model)
+                    {
+                        <li class="span3">
+                            <div class="thumbnail" style="width:270px;height:310px">
+                                <a href="~/Content/Image/book.png"><img style="width:160px;height:120px;max-width:160px;max-height:160px;" src="~/Content/Image/book.png" alt=""</a>
+                                <div class="caption" style="width:260px; height:140px">
+                                    <h5><a href="/Home/ProductDetails/@item.Id">@item.Ad</a></h5>
+                                    <p>
+                                        @item.Fiyat
+                                    </p>
+                                    <a href="@Url.Action("KitapDetay", new { id = item.Id })" class="btn btn-warning btn-xs">Detay</a>
+                                </div>
+                            </div>
+                        </li>
+                    }
+
+
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</div>

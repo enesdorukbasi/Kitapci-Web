@@ -1,0 +1,116 @@
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\KitapciApp.UI.dll.config
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\KitapciApp.UI.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\KitapciApp.UI.pdb
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\csc.exe
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\csc.exe.config
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\csc.rsp
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\csi.exe
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\csi.rsp
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\System.AppContext.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\System.IO.FileSystem.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\vbc.exe
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\vbc.exe.config
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\vbc.rsp
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\VBCSCompiler.exe
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\EntityFramework.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\EntityFramework.SqlServer.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\KitapciApp.DataAccesLayer.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\KitapciApp.EntityLayer.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\System.Web.Helpers.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\System.Web.Mvc.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\System.Web.Razor.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\System.Web.Webpages.Deployment.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\System.Web.Webpages.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\System.Web.Webpages.Razor.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\KitapciApp.DataAccesLayer.pdb
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\KitapciApp.DataAccesLayer.dll.config
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\KitapciApp.EntityLayer.pdb
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\EntityFramework.xml
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\EntityFramework.SqlServer.xml
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\System.Web.Razor.xml
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\System.Web.Webpages.xml
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\System.Web.Webpages.Deployment.xml
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\System.Web.Webpages.Razor.xml
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\System.Web.Helpers.xml
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\System.Web.Mvc.xml
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\obj\Debug\KitapciApp.UI.csprojAssemblyReference.cache
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\obj\Debug\KitapciApp.UI.csproj.CoreCompileInputs.cache
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\obj\Debug\KitapciApp.UI.csproj.CopyComplete
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\obj\Debug\KitapciApp.UI.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.UI\obj\Debug\KitapciApp.UI.pdb
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\obj\Debug\KitapciApp.UI.csprojAssemblyReference.cache
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\obj\Debug\KitapciApp.UI.csproj.CoreCompileInputs.cache
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\obj\Debug\KitapciApp.UI.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\obj\Debug\KitapciApp.UI.pdb
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\KitapciApp.UI.dll.config
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\KitapciApp.UI.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\KitapciApp.UI.pdb
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\csc.exe
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\csc.exe.config
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\csc.rsp
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\csi.exe
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\csi.rsp
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\System.AppContext.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\vbc.exe
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\vbc.exe.config
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\vbc.rsp
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\EntityFramework.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\KitapciApp.DataAccesLayer.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\KitapciApp.EntityLayer.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\System.Web.Helpers.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\System.Web.Mvc.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\System.Web.Razor.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\System.Web.Webpages.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\KitapciApp.DataAccesLayer.pdb
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\KitapciApp.DataAccesLayer.dll.config
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\KitapciApp.EntityLayer.pdb
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\EntityFramework.xml
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\System.Web.Razor.xml
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\System.Web.Webpages.xml
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\System.Web.Helpers.xml
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\System.Web.Mvc.xml
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.UI\obj\Debug\KitapciApp.UI.csproj.CopyComplete

@@ -1,0 +1,34 @@
+﻿@model List<KitapciApp.EntityLayer.Kullanıcı>
+@{
+    ViewBag.Title = "Listele";
+}
+
+<h2>Listele</h2>
+
+<a href="@Url.Action("Ekle")" class="btn btn-primary">Ekle</a>
+
+<br />
+<br />
+
+<table class="table">
+    <tr>
+        <th>EPosta</th>
+        <th>Ad</th>
+        <th>Soyad</th>
+        <th>Yetki</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.EPosta</td>
+            <td>@item.Ad</td>
+            <td>@item.Soyad</td>
+            <td>@item.Yetki</td>
+            <td>
+                <a href="@Url.Action("Sil", new { eposta = item.EPosta})" class="btn btn-danger btn-xs">Sil</a>
+                <a href="@Url.Action("Duzenle", new { eposta = item.EPosta})" class="btn btn-info btn-xs">Düzenle</a>
+            </td>
+        </tr>
+    }
+</table>

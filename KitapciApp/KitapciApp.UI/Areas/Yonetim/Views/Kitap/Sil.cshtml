@@ -1,0 +1,21 @@
+﻿@model KitapciApp.EntityLayer.Kitap
+@{
+    ViewBag.Title = "Kitap Sil";
+}
+
+<h2>Kitap Sil</h2>
+
+<hr />
+<p>@Model.Ad adlı kitabı silmek istiyor musunuz?</p>
+
+@using (Html.BeginForm("Sil", "Kitap", FormMethod.Post, new { @class = "form-horizontal" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <div class="col-md-10">
+            <a href="@Url.Action("Listele")" class="btn btn-primary">Hayır</a>
+            <button type="submit" class="btn btn-danger">Evet</button>
+        </div>
+    </div>
+}

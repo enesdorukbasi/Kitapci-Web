@@ -1,0 +1,35 @@
+﻿@model KitapciApp.EntityLayer.Satıs
+@{
+    ViewBag.Title = "Sepet Detay Listele";
+}
+
+<h2>Sepet</h2>
+
+<table class="table">
+    <tr>
+        <th>Kitap</th>
+        <th>Adet</th>
+        <th>Tutar</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model.Detaylar)
+    {
+        <tr>
+            <td>@((item.Kitap == null)? "Null" : item.Kitap.Ad)</td>
+            <td>@item.Adet</td>
+            <td>@item.Tutar.ToString("C2")</td>
+        </tr>
+    }
+    @if (Model.Detaylar.Count == 0)
+    {
+        <tr>
+            <td colspan="3"><span class="text-danger">Sepet Boş!</span></td>
+        </tr>
+    }
+</table>
+
+<a href="@Url.Action("HomeView")" class="btn btn-info">Geri</a>
+@if (Model.Detaylar.Count != 0)
+{
+    <a href="@Url.Action("SatisTamamla", "Home")" class="btn btn-success">Tamamla</a>
+}

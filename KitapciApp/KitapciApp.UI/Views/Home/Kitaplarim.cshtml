@@ -1,0 +1,31 @@
+﻿@model List<KitapciApp.EntityLayer.Satıs>
+@{
+    ViewBag.Title = "Satın Alınan Listele";
+}
+
+<h2>Satın Alınanlar</h2>
+
+<br />
+<br />
+
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Tarih Saat</th>
+        <th>Satış Durum</th>
+        <th>Toplam Tutar</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.TarihSaat</td>
+            <td>@item.SatisDurum</td>
+            <td>@item.ToplamTutar</td>
+            <td>
+                <a href="@Url.Action("KitaplarimDetay", new { id = item.Id})" class="btn btn-info btn-xs">Detay</a>
+            </td>
+        </tr>
+    }
+</table>

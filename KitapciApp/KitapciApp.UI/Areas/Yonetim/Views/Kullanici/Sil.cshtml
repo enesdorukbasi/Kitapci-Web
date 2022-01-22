@@ -1,0 +1,21 @@
+﻿@model KitapciApp.EntityLayer.Kullanıcı
+@{
+    ViewBag.Title = "Kullanıcı Sil";
+}
+
+<h2>Kullanıcı Sil</h2>
+
+<hr />
+<p>@Model.EPosta eposta adresli kullanıcıyı silmek istiyor musunuz?</p>
+
+@using (Html.BeginForm("Sil", "Kullanici", FormMethod.Post, new { @class = "form-horizontal" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(x=>x.EPosta)
+    <div class="form-group">
+        <div class="col-md-10">
+            <a href="@Url.Action("Listele")" class="btn btn-primary">Hayır</a>
+            <button type="submit" class="btn btn-danger">Evet</button>
+        </div>
+    </div>
+}

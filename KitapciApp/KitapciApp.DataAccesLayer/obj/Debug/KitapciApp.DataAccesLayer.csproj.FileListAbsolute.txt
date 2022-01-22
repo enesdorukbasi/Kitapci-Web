@@ -1,0 +1,28 @@
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.DataAccesLayer\bin\Debug\KitapciApp.DataAccesLayer.dll.config
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.DataAccesLayer\bin\Debug\KitapciApp.DataAccesLayer.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.DataAccesLayer\bin\Debug\KitapciApp.DataAccesLayer.pdb
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.DataAccesLayer\bin\Debug\EntityFramework.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.DataAccesLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.DataAccesLayer\bin\Debug\KitapciApp.EntityLayer.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.DataAccesLayer\bin\Debug\KitapciApp.EntityLayer.pdb
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.DataAccesLayer\bin\Debug\EntityFramework.xml
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.DataAccesLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.DataAccesLayer\obj\Debug\KitapciApp.DataAccesLayer.csprojAssemblyReference.cache
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.DataAccesLayer\obj\Debug\KitapciApp.DataAccesLayer.csproj.CoreCompileInputs.cache
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.DataAccesLayer\obj\Debug\KitapciApp.DataAccesLayer.csproj.CopyComplete
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.DataAccesLayer\obj\Debug\KitapciApp.DataAccesLayer.dll
+D:\Okul\Ödev\4.Dönem\İnternet Programcılığı 2\Proje\20.05.2021\KitapciApp\KitapciApp.DataAccesLayer\obj\Debug\KitapciApp.DataAccesLayer.pdb
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.DataAccesLayer\bin\Debug\KitapciApp.DataAccesLayer.dll.config
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.DataAccesLayer\bin\Debug\KitapciApp.DataAccesLayer.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.DataAccesLayer\bin\Debug\KitapciApp.DataAccesLayer.pdb
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.DataAccesLayer\bin\Debug\EntityFramework.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.DataAccesLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.DataAccesLayer\bin\Debug\KitapciApp.EntityLayer.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.DataAccesLayer\bin\Debug\KitapciApp.EntityLayer.pdb
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.DataAccesLayer\bin\Debug\EntityFramework.xml
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.DataAccesLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.DataAccesLayer\obj\Debug\KitapciApp.DataAccesLayer.csprojAssemblyReference.cache
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.DataAccesLayer\obj\Debug\KitapciApp.DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.DataAccesLayer\obj\Debug\KitapciApp.DataAccesLayer.csproj.CopyComplete
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.DataAccesLayer\obj\Debug\KitapciApp.DataAccesLayer.dll
+C:\Users\enesd\Desktop\KitapciApp\KitapciApp.DataAccesLayer\obj\Debug\KitapciApp.DataAccesLayer.pdb

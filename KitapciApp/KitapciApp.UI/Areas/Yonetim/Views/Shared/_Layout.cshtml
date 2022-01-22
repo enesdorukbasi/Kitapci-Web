@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.8.3.js"></script>
+</head>
+<body>
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Kitapçım", "Listele", "Kitap", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    @if (Session["user"] != null && (Session["user"] as KitapciApp.EntityLayer.Kullanıcı).Yetki == KitapciApp.EntityLayer.Yetkiler.Yonetici)
+                    {
+                        <li class="item"><a href="@Url.Action("Listele","Kitap")">Kitap</a></li>
+                        <li class="item"><a href="@Url.Action("Listele","Tur")">Tür</a></li>
+                        <li class="item"><a href="@Url.Action("Listele","Satis")">Satış</a></li>
+                        <li class="item"><a href="@Url.Action("Listele","Kullanici")">Kullanıcı</a></li>
+                    }
+                    else if (Session["user"] != null && (Session["user"] as KitapciApp.EntityLayer.Kullanıcı).Yetki == KitapciApp.EntityLayer.Yetkiler.Uye)
+                    {
+                        <li class="item"><a href="@Url.Action("Index","DashBoard")">DashBoard</a></li>
+                    }
+                    @if (Session["user"] != null)
+                    {
+                        <li class="item"><a href="@Url.Action("Logout","Kullanici")">Çıkış</a></li>
+                    }
+                </ul>
+
+            </div>
+
+        </div>
+    </nav>
+
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>
